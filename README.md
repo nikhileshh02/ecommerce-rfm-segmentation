@@ -90,6 +90,11 @@ Open `E_Commerce_RFM_Dashboard.pbix` in Power BI Desktop and connect to `final_f
 
 ---
 
+
+## 📸 Dashboard Preview
+![Dashboard](dashboard.png)
+
+
 ## 🧠 Technical Highlights
 
 - `pd.qcut()` for quantile-based scoring — avoids bias from outliers
